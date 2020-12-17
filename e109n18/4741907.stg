@@ -1,0 +1,5 @@
+OBJECT_BASE 4741907.btg
+OBJECT ZJSY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 109.400180 18.302561 20.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 109.424035 18.305702 28.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 109.412063 18.304301 26.1 0.00
